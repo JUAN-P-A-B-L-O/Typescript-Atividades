@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-let nome: string = `Juan Pablo`;
+let nome: string = `Juan Pablo`
 
 
 let numberArray: number[] =[];
@@ -24,3 +24,10 @@ const resultado = soma(5,6);
 console.log(resultado);
 
 const soma2: (x:number, y:number) =>number = (x,y) => x+y;
+
+const objectA = {
+    cha: `a`,
+    cha2: `as`
+}
+
+objectA.cha= `blala`;
