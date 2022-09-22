@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-let nome: string = `Juan Pablo`;
+let nome: string = `Juan Pablo`
 
 
 let numberArray: number[] =[];
