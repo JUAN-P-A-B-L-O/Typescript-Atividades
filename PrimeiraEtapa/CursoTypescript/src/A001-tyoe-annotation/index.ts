@@ -30,6 +30,6 @@ const objectA = {
     cha2: `as`
 }
 
-objectA.cha= `blala`
+objectA.cha= `blala`;
 
 //
